@@ -1,0 +1,24 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.home {
+    background-color: #a0c8f5;
+    color: #333;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#profile-picture {
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+    display: block;
+    margin: 10px 0;
+}
