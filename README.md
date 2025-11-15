@@ -33,22 +33,22 @@ We were also provided a marking guide that assisted with deciding what to includ
 ### Mobile
 
 ####  Home 
-![Put a description of your image here](./relative_path_to_file)
+![home-mobile](./relative_path_to_file)
 
 ####  Projects 
-![Put a description of your image here](./relative_path_to_file)
+![projects-mobile](./relative_path_to_file)
 
 ####  Chatter
-![Put a description of your image here](./relative_path_to_file)
+![chatter-mobile](./relative_path_to_file)
 
 
 ### Desktop
 
 ####  Home 
-![Put a description of your image here](./relative_path_to_file)
+![home-desktop](./relative_path_to_file)
 
 ####  Projects 
-![Put a description of your image here](./relative_path_to_file)
+![projects-desktop](./relative_path_to_file)
 
 ####  Chatter
-![Put a description of your image here](./relative_path_to_file)
+![chatter-desktop](./relative_path_to_file)
