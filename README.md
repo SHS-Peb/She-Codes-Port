@@ -9,7 +9,7 @@ I decided a pastl bright theme to match my soul and yet a clean and simple desig
 We were also provided a marking guide that assisted with deciding what to include, which I have added below.
 - [Y] At least one profile picture
 - [Y] Biography (at least 100 words)
-- [ ] Functional Contact Form
+- [Y] Functional Contact Form
 - [Y] "Projects" section
 - [Y] Links to external sites, e.g. GitHub and LinkedIn.
 ​
@@ -20,35 +20,33 @@ We were also provided a marking guide that assisted with deciding what to includ
 - [Y] At least 2 web pages.
 - [Y] Version controlled with Git
 - [ ] Deployed on GitHub pages.
-- [ ] Implements responsive design principles.
-- [ ] Uses semantic HTML.
+- [Y] Implements responsive design principles.
+- [Y] Uses semantic HTML.
 
 ### Bonus (optional)
- Add a short paragraph describing the features below, if you included any. 
-- [ ] Different styles for active, hover and focus states.
-- [ ] Include JavaScript to add some dynamic elements to your site. (Extra tricky!)
+- [Y] Different styles for active, hover and focus states.
 ​
 ## Screenshots
 
 ### Mobile
 
 ####  Home 
-![home-mobile](./relative_path_to_file)
+![home-mobile](./assets/home-mobile.PNG)
 
 ####  Projects 
-![projects-mobile](./relative_path_to_file)
+![projects-mobile](./assets/projects-mobile.PNG)
 
 ####  Chatter
-![chatter-mobile](./relative_path_to_file)
+![chatter-mobile](./assets/contact-mobile.PNG)
 
 
 ### Desktop
 
 ####  Home 
-![home-desktop](./relative_path_to_file)
+![home-desktop](./assets/home-desktop.PNG)
 
 ####  Projects 
-![projects-desktop](./relative_path_to_file)
+![projects-desktop](./assets/projects-desktop.PNG)
 
 ####  Chatter
-![chatter-desktop](./relative_path_to_file)
+![chatter-desktop](./assets/contact-desktop.PNG)
