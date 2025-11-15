@@ -1,6 +1,6 @@
 #  Shannon Lowe - Portfolio Task
 ​
-[My portfolio site](link_to_your_site)
+[My portfolio site](https://shs-peb.github.io/She-Codes-Port/)
 
 ## Content
 While designing this portfolio I thought of how I wanted to show myself off and all of my creations.
@@ -19,7 +19,7 @@ We were also provided a marking guide that assisted with deciding what to includ
  We were also provided a marking guide that assisted with deciding how it should be techinically based, which I have added below.
 - [Y] At least 2 web pages.
 - [Y] Version controlled with Git
-- [ ] Deployed on GitHub pages.
+- [Y] Deployed on GitHub pages.
 - [Y] Implements responsive design principles.
 - [Y] Uses semantic HTML.
 
