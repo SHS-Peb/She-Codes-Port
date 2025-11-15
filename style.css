@@ -118,5 +118,5 @@ footer {
     width: 100%;
     left: 0;
     border-top-color: #484848;
-    position: fixed;
+    position: sticky;
 }
